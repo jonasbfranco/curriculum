@@ -11,16 +11,21 @@ Sou programador mas trabalho a 4 anos como analista de sistemas Totvs datasul.
 Estou estudando Bootstrap, Gulp e Bower para Front-End. 
 Vou iniciar um curso de Oracle na Kees - São Jose do Rio Preto. Trabalhei com mySQL e SQLServer.
 
-Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
 
-Redes Sociais
+## Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
+
+##Redes Sociais
+
 facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook")  
 instagran: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
 twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
 site pessoal: [http://www.estudosjonas.esy.es/](http://www.estudosjonas.esy.es/ "Site Pessoal")
 
-Git
+
+##Git
+
 github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Github")
+
 
 
 ## Conhecimentos
@@ -30,7 +35,24 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 * HTML e CSS (LESS) 
 * Sistemas de controle de versão (git) 
 * Analista Datasul Totvs (4 anos)
-* Inglês suficiente para ler e entender.
+
+
+## Histórico Profissional 
+
+# Usina Colombo S/A - Açucar e Alcool (02/05/2016 até a data atual)
+
+Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte fazendo a ponte entre o usuário e o suporte da Totvs, nos módulos HCM, Faturamento e Frotas, focando mais na área de Faturamento.
+* Totvs Datasul 12 (Faturamento, TSS, Totvs Colaboração, HCM, Contabilidade e Frotas).
+* PIMS (Suporte básico ao usuário, criação e alteração de usuários e perfis)
+* Todos estes programas citados acima aqui na Usina Colombo nos trabalhamos puramente como analistas, isto é a cultura da área de TI da Empresa.
+* Abertura de Chamados para Analises no Portal Totvs.
+* Banco de Dados (Progress102b - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador), (MySQL - Criação e Banco, Carga nas tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
+
+
+#Idioma
+
+* Inglês (leitura e escrita) – Nível Intermediário.
+* Espanhol (leitura e escrita) – Nível Intermediário.
 
 
 
@@ -38,6 +60,12 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 ## Formação
 
 * Graduado em Sistemas de Informação pela (FAL)
-* Pós em Tecnologias Web para negócios (FEJAL)
- 
 
+ site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
+
+
+
+## Observações
+
+* Disponibilidade de mudança de endereço (cidade) ou viajar diariamente.
+* Apto para atuar em outras áreas.
