@@ -12,7 +12,7 @@ Estou estudando Bootstrap, Gulp e Bower para Front-End.
 Vou iniciar um curso de Oracle na Kees - São Jose do Rio Preto. Trabalhei com mySQL e SQLServer.
 
 
-## Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
+# Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
 
 ##Redes Sociais
 
@@ -39,7 +39,7 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 ## Histórico Profissional 
 
-# Usina Colombo S/A - Açucar e Alcool (02/05/2016 até a data atual)
+Usina Colombo S/A - Açucar e Alcool (02/05/2016 até a data atual)
 
 Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte fazendo a ponte entre o usuário e o suporte da Totvs, nos módulos HCM, Faturamento e Frotas, focando mais na área de Faturamento.
 * Totvs Datasul 12 (Faturamento, TSS, Totvs Colaboração, HCM, Contabilidade e Frotas).
@@ -49,7 +49,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 * Banco de Dados (Progress102b - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador), (MySQL - Criação e Banco, Carga nas tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
 
 
-#Idioma
+# Idioma
 
 * Inglês (leitura e escrita) – Nível Intermediário.
 * Espanhol (leitura e escrita) – Nível Intermediário.
@@ -60,8 +60,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 ## Formação
 
 * Graduado em Sistemas de Informação pela (FAL)
-
- site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
+  site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
 
 
 
