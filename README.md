@@ -12,7 +12,7 @@ Estou estudando Bootstrap, Gulp e Bower para Front-End.
 Vou iniciar um curso de Oracle na Kees - São Jose do Rio Preto. Trabalhei com mySQL e SQLServer.
 
 
-### Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
+#### Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
 
 ##Redes Sociais
 
