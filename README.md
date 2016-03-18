@@ -12,7 +12,7 @@ Estou estudando Bootstrap, Gulp e Bower para Front-End.
 Vou iniciar um curso de Oracle na Kees - São Jose do Rio Preto. Trabalhei com mySQL e SQLServer.
 
 
-Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
+### Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
 
 ##Redes Sociais
 
@@ -29,6 +29,10 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 ## Conhecimentos
 * Analista Datasul Totvs (4 anos)
+* mySQL
+* SQLServer
+* Oracle
+* Progress
 * PHP - (3 anos)  
 * Javascript - (3 anos)
 * HTML e CSS (LESS) 
@@ -36,7 +40,6 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 
 ## Histórico Profissional 
-
 Usina Colombo S/A - Açucar e Alcool (02/05/2016 até a data atual)
 
 Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte fazendo a ponte entre o usuário e o suporte da Totvs, nos módulos HCM, Faturamento e Frotas, focando mais na área de Faturamento.
@@ -58,6 +61,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 ## Formação
 
 * Graduado em Sistemas de Informação pela (FAL)
+  
   site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
 
 
