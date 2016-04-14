@@ -60,7 +60,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 
 ## Formação
 
-* Graduado em Sistemas de Informação pela (FAL)
+* Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
   
   site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
 
