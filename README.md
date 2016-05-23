@@ -4,12 +4,12 @@
 
 Local: Santa Adelia - São Paulo | Idade: 37 anos
 
-Sou desenvolvedor web a mais de 5 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
-Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a internet. 
-Nas horas vagas gosto de ler para me manter atualizado nas novas tecnologias e tendências. 
-Sou programador mas trabalho a 4 anos como analista de sistemas Totvs datasul. 
-Estou estudando Bootstrap, Gulp e Bower para Front-End. 
-Vou iniciar um curso de Oracle na Kees - São Jose do Rio Preto. Trabalhei com mySQL e SQLServer.
+Sou desenvolvedor Web a mais de 5 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
+Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
+Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. 
+Sou programador mas trabalho a 4 anos como Analista de Sistemas Totvs Datasul. 
+Estou estudando Bootstrap, Gulp e Bower para Front-End, tamb[em fazendo curso preparatorio para certifica;áo OCA Oracle 11g. 
+Trabalhei com mySQL e SQLServer.
 
 
 #### Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
@@ -48,7 +48,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 * Todos estes programas citados acima aqui na Usina Colombo nos trabalhamos puramente como analistas, isto é a cultura da área de TI da Empresa.
 * Abertura de Chamados para Analises no Portal Totvs.
 * Banco de Dados (Progress102b - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador), (MySQL - Criação e Banco, Carga nas tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
-
+*  Banco de Dados Oracle 11g, consultas, alterações e relatórios.
 
 ## Idioma
 
