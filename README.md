@@ -60,9 +60,13 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 
 ## Formação
 
+* Cursando Pos Graduacão em Gestado de Marketing pelo (Senac São Paulo) 
+  site: [http://www.sp.senac.br/](http://www.sp.senac.br/ "Senac SP")
+
+
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
   
-  site: [http://www.saoluis.br/curso/graduacao/sistemas-de-informacao](http://www.saoluis.br/curso/graduacao/sistemas-de-informacao "Faculdade de Educação São Luis")
+  site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
 
 
 
