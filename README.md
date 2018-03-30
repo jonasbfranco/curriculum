@@ -28,7 +28,9 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 
 ## Conhecimentos
-* Analista Datasul Totvs (4 anos)
+* Analista Datasul Totvs (6 anos)
+* Protheus
+* e-Social
 * mySQL
 * SQLServer
 * Oracle
@@ -61,6 +63,7 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 ## Formação
 
 * Cursando Pos Graduacão em Gestado de Marketing pelo (Senac São Paulo) 
+
   site: [http://www.sp.senac.br/](http://www.sp.senac.br/ "Senac SP")
 
 
