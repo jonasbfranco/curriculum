@@ -1,6 +1,7 @@
 # Jonas Baptista Franco (currículo)
 
-<img src="https://s.gravatar.com/avatar/68ecdd30be255573dbf263099f786b86?s=80" />
+<img src="https://s.gravatar.com/avatar/30c59eac6baaca5053b8c55a7b8089f9?s=80" />
+
 
 Local: Santa Adelia - São Paulo | Idade: 37 anos
 
@@ -28,7 +29,9 @@ github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 
 ## Conhecimentos
-* Analista Datasul Totvs (6 anos)
+* Analista Datasul Totvs (8 anos)
+* ADVPL
+* eSocial - TAF (Totvs Automação Fiscal)
 * Protheus
 * e-Social
 * mySQL
@@ -61,11 +64,6 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 
 
 ## Formação
-
-* Cursando Pos Graduacão em Gestado de Marketing pelo (Senac São Paulo) 
-
-  site: [http://www.sp.senac.br/](http://www.sp.senac.br/ "Senac SP")
-
 
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
   
