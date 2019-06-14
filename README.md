@@ -65,6 +65,11 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 
 ## Formação
 
+* Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
+  
+  site: [http://www.uniube.br/](http://www.uniube.br/ "Faculdade de Uberaba")
+
+
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
   
   site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
