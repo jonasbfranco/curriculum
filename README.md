@@ -3,7 +3,7 @@
 <img src="https://s.gravatar.com/avatar/30c59eac6baaca5053b8c55a7b8089f9?s=80" />
 
 
-Local: Santa Adelia - São Paulo | Idade: 37 anos
+Local: Santa Adelia - São Paulo | Idade: 41 anos
 
 Sou desenvolvedor Web a mais de 5 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
@@ -13,9 +13,9 @@ Estou estudando Bootstrap, Gulp e Bower para Front-End, tamb[em fazendo curso pr
 Trabalhei com mySQL e SQLServer.
 
 
-#### Atualmente trabalho na Usina Colombo S/A como Analista de Sistemas Totvs.
+#### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A como Analista de Sistemas Sr.
 
-##Redes Sociais
+## Redes Sociais
 
 facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook")  
 instagran: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
