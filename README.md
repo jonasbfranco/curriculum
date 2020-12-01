@@ -3,7 +3,7 @@
 <img src="https://s.gravatar.com/avatar/30c59eac6baaca5053b8c55a7b8089f9?s=80" />
 
 
-Local: Santa Adelia - São Paulo | Idade: 41 anos
+Local: Santa Adelia - São Paulo | Idade: 42 anos
 
 Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
@@ -13,7 +13,7 @@ Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazen
 Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
-### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A como Analista de Sistemas Sr.
+#### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A, exercendo a função de Analista de Sistemas Sr.
 
 ## Redes Sociais
 
@@ -29,7 +29,7 @@ Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 
 
 ## Conhecimentos
-* Analista Datasul Totvs (8 anos)
+* Analista Datasul Totvs (9 anos)
 * ADVPL
 * eSocial - TAF (Totvs Automação Fiscal)
 * Protheus
@@ -47,13 +47,17 @@ Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 ## Histórico Profissional 
 Usina Colombo S/A - Açucar e Alcool (02/05/2016 até a data atual)
 
-Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte fazendo a ponte entre o usuário e o suporte da Totvs, nos módulos HCM, Faturamento e Frotas, focando mais na área de Faturamento.
+Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de suporte fazendo a ponte entre o usuário e o suporte da Totvs, nos módulos HCM, Faturamento e Frotas, focando mais na área de Faturamento.
 * Totvs Datasul 12 (Faturamento, TSS, Totvs Colaboração, HCM, Contabilidade e Frotas).
-* PIMS (Suporte básico ao usuário, criação e alteração de usuários e perfis)
-* Todos estes programas citados acima aqui na Usina Colombo nos trabalhamos puramente como analistas, isto é a cultura da área de TI da Empresa.
-* Abertura de Chamados para Analises no Portal Totvs.
-* Banco de Dados (Progress102b - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador), (MySQL - Criação e Banco, Carga nas tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
-*  Banco de Dados Oracle 11g, consultas, alterações e relatórios.
+* PIMS (Suporte básico ao usuário, criação e alteração de usuários e perfis).
+* GFE (Suporte aos Usuários).
+* Todos os Sistemas e programas citados acima, na Empresa Colombo Agroindústria a metodologia de trabalho, é puramente como analista, isto é a cultura aplicada à área de TI.
+* Abertura de Chamados no Portal Clientes Totvs.
+* Banco de Dados (Progress - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador de Ligações), (MySQL - Criação e Banco, Carga nas Tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
+* Banco de Dados Oracle 11g, consultas, alterações e relatórios.
+
+
+
 
 ## Idioma
 
@@ -66,10 +70,12 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 ## Formação
 
 * Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
+
   site: [http://www.uniube.br/](http://www.uniube.br/ "Faculdade de Uberaba")
 
 
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
+
   site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
 
 
