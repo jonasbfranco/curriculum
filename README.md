@@ -5,26 +5,26 @@
 
 Local: Santa Adelia - São Paulo | Idade: 41 anos
 
-Sou desenvolvedor Web a mais de 5 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
+Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
 Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. 
-Sou programador mas trabalho a 4 anos como Analista de Sistemas Totvs Datasul. 
-Estou estudando Bootstrap, Gulp e Bower para Front-End, tamb[em fazendo curso preparatorio para certifica;áo OCA Oracle 11g. 
-Trabalhei com mySQL e SQLServer.
+Sou programador mas trabalho a 9 anos como Analista de Sistemas Totvs Datasul. 
+Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazendo curso preparatorio para certifica;áo OCA Oracle 11g. 
+Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
-#### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A como Analista de Sistemas Sr.
+### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A como Analista de Sistemas Sr.
 
 ## Redes Sociais
 
-facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook")  
-instagran: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
-twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
-site pessoal: [http://www.estudosjonas.esy.es/](http://www.estudosjonas.esy.es/ "Site Pessoal")
+Facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook")  
+Instagran: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
+Twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
+Site pessoal: [https://jonasbfranco.github.io/](https://jonasbfranco.github.io/ "Site Pessoal")
 
 
 ## Git
-github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Github")
+Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Github")
 
 
 
@@ -66,12 +66,10 @@ Analista de Sistemas, atuando com o ERP Totvs Datasul, sendo analista de suporte
 ## Formação
 
 * Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
-  
   site: [http://www.uniube.br/](http://www.uniube.br/ "Faculdade de Uberaba")
 
 
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
-  
   site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
 
 
