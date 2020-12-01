@@ -9,7 +9,7 @@ Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre e
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
 Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. 
 Sou programador mas trabalho a 9 anos como Analista de Sistemas Totvs Datasul. 
-Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazendo curso preparatorio para certifica;áo OCA Oracle 11g. 
+Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazendo curso preparatorio para certificação OCA Oracle 11g. 
 Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
