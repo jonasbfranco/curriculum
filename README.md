@@ -94,10 +94,10 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 ## Formação
 
 * MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
-[Site][<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
+[<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
 
 
-[Site][<img align="left" alt="Faculdade de Educação São Luis - Jaboticabal - SP | Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitefaculdade]
+[<img align="left" alt="Faculdade de Educação São Luis - Jaboticabal - SP | Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitefaculdade]
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)  
 
 
