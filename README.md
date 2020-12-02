@@ -2,7 +2,6 @@
 
 <img src="https://s.gravatar.com/avatar/30c59eac6baaca5053b8c55a7b8089f9?s=80" />
 
-
 Local: Santa Adelia - São Paulo | Idade: 42 anos
 
 Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
@@ -15,22 +14,22 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 #### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A, exercendo a função de Analista de Sistemas Sr.
 
-### Redes Sociais
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook") 
-Instagram: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
-Twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
-Site pessoal: [https://jonasbfranco.github.io/](https://jonasbfranco.github.io/ "Site Pessoal")
+## Redes Sociais
+
+[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jonasbfranco | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jonasbfranco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jonasbfranco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 
 ## Git
 Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Github")
+
 
 
 
@@ -44,10 +43,12 @@ Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 * SQLServer
 * Oracle
 * Progress
-* PHP - (3 anos)  
+* PHP - (4 anos)  
 * Javascript - (3 anos)
-* HTML e CSS (LESS) 
+* HTML e CSS (LESS & SASS) 
 * Sistemas de controle de versão (git) 
+
+
 
 
 ## Histórico Profissional 
@@ -76,6 +77,8 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 ## Formação
 
 * Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
+[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://simpleicons.org/icons/googlechrome.svg" />][website]
 
   site: [http://www.uniube.br/](http://www.uniube.br/ "Faculdade de Uberaba")
 
@@ -92,8 +95,7 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Apto para atuar em outras áreas.
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: ttps://jonasbfranco.github.io/
 [twitter]: https://twitter.com/jonasbfranco
 [youtube]: https://youtube.com/c/JonasFranco
 [instagram]: https://instagram.com/jonasbfranco
