@@ -15,11 +15,16 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 #### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A, exercendo a função de Analista de Sistemas Sr.
 
-## Redes Sociais
+### Redes Sociais
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 Facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook") 
-[<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+Instagram: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
 Twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
 Site pessoal: [https://jonasbfranco.github.io/](https://jonasbfranco.github.io/ "Site Pessoal")
 
@@ -86,5 +91,10 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Disponibilidade de mudança de endereço (cidade) ou viajar diariamente.
 * Apto para atuar em outras áreas.
 
-Instagram: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/jonasbfranco
+[youtube]: https://youtube.com/c/JonasFranco
 [instagram]: https://instagram.com/jonasbfranco
+[linkedin]: https://www.linkedin.com/in/jonasbfranco
