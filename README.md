@@ -12,8 +12,13 @@ Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazen
 Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
+<br>
+
+
 #### Atualmente trabalho na Colombo Agroindustria S/A, antiga Usina Colombo S/A, exercendo a função de Analista de Sistemas Sr.
 
+
+<br>
 
 
 ## Redes Sociais
@@ -25,12 +30,14 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 [<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+<br>
 
 
-## Git
-Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Github")
+### Github
+[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 
 
+<br>
 
 
 ## Conhecimentos
@@ -49,6 +56,7 @@ Github: [https://github.com/jonasbfranco/](https://github.com/jonasbfranco/ "Git
 * Sistemas de controle de versão (git) 
 
 
+<br>
 
 
 ## Histórico Profissional 
@@ -64,6 +72,7 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Banco de Dados Oracle 11g, consultas, alterações e relatórios.
 
 
+<br>
 
 
 ## Idioma
@@ -72,6 +81,7 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Espanhol (leitura e escrita) – Nível Intermediário.
 
 
+<br>
 
 
 ## Formação
@@ -88,6 +98,8 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
   site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
 
 
+<br>
+
 
 ## Observações
 
@@ -100,3 +112,5 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 [youtube]: https://youtube.com/c/JonasFranco
 [instagram]: https://instagram.com/jonasbfranco
 [linkedin]: https://www.linkedin.com/in/jonasbfranco
+[github]: https://github.com/jonasbfranco
+
