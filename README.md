@@ -93,13 +93,12 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 
 ## Formação
 
-* Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
+* MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
 [<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
 
-
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
-
-  site: [http://www.saoluis.br/](http://www.saoluis.br/ "Faculdade de Educação São Luis")
+[<img align="left" alt="Faculdade de Educação São Luis - Jaboticabal - SP | Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitefaculdade]
+  
 
 
 <br>
@@ -118,6 +117,6 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 [linkedin]: https://www.linkedin.com/in/jonasbfranco
 [github]: https://github.com/jonasbfranco
 [websitepos]: http://www.uniube.br/
-[websitefaculdade]:
+[websitefaculdade]: http://www.saoluis.br/ "Faculdade de Educação São Luis"
 
 
