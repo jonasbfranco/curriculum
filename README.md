@@ -17,8 +17,9 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 ## Redes Sociais
 
-Facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook")  
-Instagran: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
+Facebook: [https://www.facebook.com/jonasbfranco/](https://www.facebook.com/jonasbfranco/ "Facebook") 
+[<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 Twitter: [@jonasbfranco](http://twitter.com/jonasbfranco "Twitter")  
 Site pessoal: [https://jonasbfranco.github.io/](https://jonasbfranco.github.io/ "Site Pessoal")
 
@@ -84,3 +85,6 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 
 * Disponibilidade de mudança de endereço (cidade) ou viajar diariamente.
 * Apto para atuar em outras áreas.
+
+Instagram: [https://www.instagram.com/jonasbfranco/](https://www.instagram.com/jonasbfranco/ "instagram")  
+[instagram]: https://instagram.com/jonasbfranco
