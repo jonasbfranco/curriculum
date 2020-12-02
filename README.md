@@ -1,3 +1,8 @@
+![](https://visitor-badge.glitch.me/badge?page_id=jonasbfranco.jonasbfranco)
+
+
+<br>
+
 # Jonas Baptista Franco (currículo)
 
 <img src="https://s.gravatar.com/avatar/30c59eac6baaca5053b8c55a7b8089f9?s=80" />
@@ -31,12 +36,14 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
 <br>
+<br>
 
 
-### Github
-[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+## Github
+[<img align="left" alt="Jonas B. Franco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 
 
+<br>
 <br>
 
 
@@ -87,10 +94,7 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 ## Formação
 
 * Cursando MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
-[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://simpleicons.org/icons/googlechrome.svg" />][website]
-
-  site: [http://www.uniube.br/](http://www.uniube.br/ "Faculdade de Uberaba")
+[<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
 
 
 * Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
@@ -113,4 +117,7 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 [instagram]: https://instagram.com/jonasbfranco
 [linkedin]: https://www.linkedin.com/in/jonasbfranco
 [github]: https://github.com/jonasbfranco
+[websitepos]: http://www.uniube.br/
+[websitefaculdade]:
+
 
