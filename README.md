@@ -94,11 +94,11 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 ## Formação
 
 * MBA em Gestão do Agronegócio (Faculdade de Uberaba - MG)
-[<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
+[Site][<img align="left" alt="Uniube | Pós Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitepos]
 
-* Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)
-[<img align="left" alt="Faculdade de Educação São Luis - Jaboticabal - SP | Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitefaculdade]
-  
+
+[Site][<img align="left" alt="Faculdade de Educação São Luis - Jaboticabal - SP | Graduação" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitefaculdade]
+* Graduado em Sistemas de Informação pela (Faculdade de Educação São Luis - Jaboticabal - SP)  
 
 
 <br>
@@ -110,13 +110,13 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Apto para atuar em outras áreas.
 
 
-[website]: ttps://jonasbfranco.github.io/
-[twitter]: https://twitter.com/jonasbfranco
-[youtube]: https://youtube.com/c/JonasFranco
-[instagram]: https://instagram.com/jonasbfranco
-[linkedin]: https://www.linkedin.com/in/jonasbfranco
-[github]: https://github.com/jonasbfranco
-[websitepos]: http://www.uniube.br/
+[website]: https://jonasbfranco.github.io/ "Site Pessoal do Github"
+[twitter]: https://twitter.com/jonasbfranco "Twitter"
+[youtube]: https://youtube.com/c/JonasFranco "Youtube"
+[instagram]: https://instagram.com/jonasbfranco "Instagram"
+[linkedin]: https://www.linkedin.com/in/jonasbfranco "Linkedin"
+[github]: https://github.com/jonasbfranco "Github"
+[websitepos]: http://www.uniube.br/ "Faculdade de Uberaba - MG"
 [websitefaculdade]: http://www.saoluis.br/ "Faculdade de Educação São Luis"
 
 
