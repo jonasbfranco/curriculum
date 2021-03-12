@@ -12,9 +12,9 @@ Local: Santa Adelia - São Paulo | Idade: 42 anos
 Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
 Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. 
-Sou programador mas trabalho a 9 anos como Analista de Sistemas Totvs Datasul. 
-Atualmente estou estudando Bootstrap, Gulp e Bower para Front-End, também fazendo curso preparatorio para certificação OCA Oracle 11g. 
-Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
+Trabalho a 9 anos como Analista de Sistemas Totvs Datasul, mas também crio idéias . 
+Atualmente estou estudando Laravel, Nodejs e ReactJs para me tornar um FullStack melhor e com boas praticas direcionadas. 
+Trabalho com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 
 <br>
@@ -49,18 +49,19 @@ Trabalhei com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
 
 ## Conhecimentos
 * Analista Datasul Totvs (9 anos)
-* ADVPL
 * eSocial - TAF (Totvs Automação Fiscal)
 * Protheus
-* e-Social
-* mySQL
+* MySQL/MariaDB
+* MongoDB
 * SQLServer
 * Oracle
 * Progress
-* PHP - (4 anos)  
+* PHP - (11 anos)  
 * Javascript - (3 anos)
-* HTML e CSS (LESS & SASS) 
-* Sistemas de controle de versão (git) 
+* HTML e CSS (SASS) 
+* Sistemas de controle de versão (git)
+* Laravel
+* NodeJs, ReactJs
 
 
 <br>
@@ -77,6 +78,8 @@ Analista de Sistemas Senior, atuando com o ERP Totvs Datasul, sendo analista de 
 * Abertura de Chamados no Portal Clientes Totvs.
 * Banco de Dados (Progress - apenas consultas), (SQL - Consultas e Backup - Banco do Tarifador de Ligações), (MySQL - Criação e Banco, Carga nas Tabelas e Suporte), (SQLite - Banco dos Sistemas Auxiliares, Consultas, Edições - Exclusões e Inserções).
 * Banco de Dados Oracle 11g, consultas, alterações e relatórios.
+* Elaboração e criação de App Web com a tecnologia Html5, Css3, Javascript, PHP e Bootstrap.
+* Configuracao de ambiente Linux Ubuntu Server para servidor web
 
 
 <br>
