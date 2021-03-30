@@ -9,12 +9,7 @@
 
 Local: Santa Adelia - São Paulo | Idade: 42 anos
 
-Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. 
-Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. 
-Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. 
-Trabalho a 9 anos como Analista de Sistemas Totvs Datasul, mas também crio idéias . 
-Atualmente estou estudando Laravel, Nodejs e ReactJs para me tornar um FullStack melhor e com boas praticas direcionadas. 
-Trabalho com mySQL e SQLServer, experiencia em Github, Linux, Vuejs, etc.
+Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. Trabalho a 9 anos como Analista de Sistemas Totvs Datasul. Atualmente estou estudando Laravel, Nodejs e ReactJs para me tornar um FullStack melhor e com boas praticas solidas. Trabalho com mySQL e SQLServer, experiência em Github, Linux.
 
 
 <br>
