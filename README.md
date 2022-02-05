@@ -9,8 +9,7 @@
 
 Local: Santa Adelia - São Paulo | Idade: 42 anos
 
-Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. Trabalho a 9 anos como Analista de Sistemas Totvs Datasul. Atualmente estou estudando Laravel, Nodejs e ReactJs para me tornar um FullStack melhor e com boas praticas solidas. Trabalho com mySQL e SQLServer, experiência em Github, Linux.
-
+Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre escutando uma boa música. Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a Tecnologia e Internet. Nas horas vagas gosto de ler para me manter atualizado sobre novas tecnologias e tendências. Trabalho a 9 anos como Analista de Sistemas Totvs Datasul. Acabei de estudar Laravel, Nodejs e ReactJs para me atualizar e conseguir boas praticas para desenvolver meu trabalho e o trabalha do minha equipe. Atualmente estou envolvido com projetos Financeiro e migracao de todo o Datacenter da Colombo Agroindustria, atuando como ponto de apoio nas mais diversas atividades referentes a migracao. Atualmente estou estudando Docker e Sistemas de Monitoramento como Zabbix e Grafana.
 
 <br>
 
@@ -23,10 +22,10 @@ Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre e
 
 ## Redes Sociais
 
-[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jonasbfranco | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jonasbfranco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jonasbfranco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jonas B. Franco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+#[<img align="left" alt="jonasbfranco | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+#[<img align="left" alt="jonasbfranco | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
@@ -43,7 +42,10 @@ Sou desenvolvedor Web a mais de 15 anos, Fan de iOS e Android, Trabalho sempre e
 
 
 ## Conhecimentos
-* Analista Datasul Totvs (9 anos)
+* Analista Datasul Totvs (10 anos)
+* Linux Server
+* Docker
+* Zabbix
 * eSocial - TAF (Totvs Automação Fiscal)
 * Protheus
 * MySQL/MariaDB
